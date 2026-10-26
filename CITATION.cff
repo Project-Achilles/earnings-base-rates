@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Earnings-Move Base Rates — ISA-01 Extract"
+authors:
+  - name: "Read Achilles"
+version: "2026-10-23"
+date-released: "2026-10-23"
+url: "https://readachilles.com/trends/"
+license: "CC-BY-4.0"
+abstract: "Per-symbol earnings-reaction base rates for 524 US-listed companies: priced-print counts, hit rates at the ±2/3/5/8/10% thresholds, median absolute move, and largest observed up/down moves. Derived statistics from the ISA-01 Earnings-Move Atlas, data as of 2026-10-23."
